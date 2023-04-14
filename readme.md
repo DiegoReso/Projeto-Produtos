@@ -1,4 +1,4 @@
-Projeto usando somento html, css e javascript com consumo de API.
+Projeto usando somente html, css e javascript com consumo de API.
 Meu primeiro projeto responsivo.
 
 
