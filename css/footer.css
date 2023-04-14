@@ -1,0 +1,14 @@
+footer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 293px;
+  background-image: url(/img/img.jpg);
+  font-size: 12px;
+  
+}
+
+footer :first-child{
+  margin-top: 157.24px;
+}
+

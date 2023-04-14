@@ -1,0 +1,31 @@
+@import 'products.css';
+@import 'header.css';
+@import 'section-form.css';
+@import 'section-footer.css';
+@import 'footer.css';
+
+
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: Helvetica,Arial, sans-serif ;
+  color: #888888;
+  
+}
+
+body{
+  width: 1500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#image{
+  border: 1px solid rgb(219, 207, 207);
+}
+
+@media (max-width: 420px){
+  body{
+    width: 420px;
+  }
+}
