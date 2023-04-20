@@ -9,9 +9,9 @@ Projeto responsivo para telas de 420px 720 px.
 
 Mais produtos podem ser adicionados ao catalago de produtos.
 Basta clicar no botao abaixo do catalogo.
+Ira adicionar mais 8 produtos e ira bloquear o botao de ver mais produtos.
 
 
-Meu primeiro projeto responsivo.
 
 
 
